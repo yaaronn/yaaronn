@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm Yeshwanth Aaron 👋
+# I'm Yeshwanth Aaron 👋
 
 💻 Software Engineer | 🤖 AI & Automation Builder
 
