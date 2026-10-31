@@ -1,86 +1,53 @@
-## Hi there 👋
+# Hi, I'm Yeshwanth Aaron 👋
 
-# I'm Yeshwanth Aaron 👋
+### Full-Stack & Backend Developer | AI Integration | Automation
 
-💻 Software Engineer | 🤖 AI & Automation Builder
+I build backend applications, AI-powered solutions, and workflow automation systems that solve practical business problems.
 
-I build **AI-powered systems, automation workflows, and data pipelines** that solve real-world problems.
+I have **6 years of professional experience in Oracle PL/SQL development**, with experience in SQL optimization, database development, and enterprise data processing. I'm now expanding my work across full-stack development, Python backend engineering, AI integration, and automation.
 
----
-
-## 🚀 About Me
-
-* 6+ years experience as a **Software Engineer**
-* Currently working on **Machine Learning and AI systems**
-* Interested in **AI automation, workflow orchestration, and SaaS tools**
-* Building projects using **Python, ML, APIs, and automation platforms**
+🌐 **Portfolio:** https://yaaron.site  
+💼 **LinkedIn:** https://www.linkedin.com/in/yeshwanth-aaron-7441a1205/  
+📂 **GitHub:** https://github.com/yaaronn
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 What I Work On
 
-**Languages**
+- Backend development and REST API integration
+- AI-powered document processing using OCR and LLMs
+- Workflow automation using n8n and external APIs
+- Python applications and data processing pipelines
+- Database development and SQL optimization
 
-* Python
-* SQL
-* JavaScript
+### 🛠️ Technical Skills
 
-**AI / ML**
+**Languages & Databases**
+- Python, SQL, JavaScript, Oracle PL/SQL, PostgreSQL
 
-* Scikit-learn
-* TensorFlow
-* NLP
-* OCR
+**Backend & Development**
+- Django, FastAPI, REST APIs
 
-**Automation**
+**AI & Machine Learning**
+- Scikit-learn, TensorFlow, NLP, OCR, LLM integrations
 
-* n8n
-* Zapier
-* API integrations
+**Automation & Tools**
+- n8n, API integrations, Docker, Git, GitHub
 
-**Backend**
+**Data Engineering**
+- BigQuery, Kestra, SQL, Docker
 
-* Django
-* FastAPI
-* REST APIs
+### 📌 Featured Projects
 
-**Tools**
+- **AI Document Processing SaaS** – Extracting structured information from documents using OCR and LLMs.
+- **AI Email Automation** – Automating email workflows using n8n.
+- **Natural Language to SQL** – Converting natural language questions into schema-aware SQL queries.
+- **Telegram Anonymous Chat Bot** – A Python-based bot with random matchmaking and moderation features.
 
-* Git
-* Docker
-* PostgreSQL
+### 🎯 Current Focus
 
----
-
-## 📂 Featured Projects
-
-🔹 **AI Document Processing SaaS**
-AI pipeline that extracts and processes information from documents using OCR and NLP.
-
-🔹 **AI Support Ticket Automation**
-Automated ticket classification and response system using LLMs.
-
-🔹 **Workflow Automation Systems**
-Automation pipelines integrating APIs and business workflows.
+Building reliable backend applications, integrating AI into practical workflows, and developing automation solutions.
 
 ---
 
-## 📫 Connect With Me
-
-* LinkedIn: (https://www.linkedin.com/in/yeshwanth-aaron-7441a1205/)
-
-
-<!--
-**yaaronn/yaaronn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Always learning, building, and improving.*
