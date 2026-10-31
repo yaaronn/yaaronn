@@ -1,6 +1,6 @@
 # Hi, I'm Yeshwanth Aaron 👋
 
-### Full-Stack & Backend Developer | AI Integration | Automation
+Full-Stack & Backend Developer | Python, SQL, Next.js | AI Integration & Workflow Automation
 
 I build backend applications, AI-powered solutions, and workflow automation systems that solve practical business problems.
 
